@@ -1,0 +1,4 @@
+DATA_PATH = "data/raw/amazon_sales.csv"
+
+CRITICAL_THRESHOLD = 100
+WARNING_THRESHOLD = 50
